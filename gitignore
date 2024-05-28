@@ -5,3 +5,8 @@
 !/wp-content/themes/
 /wp-content/themes/*
 !/wp-content/themes/テーマ名/
+
+#ルートディレクトリ真下全て無視
+#wp-contentは無視しない
+#wp-content真下全て無視
+#wp-content/themeは無視しない
